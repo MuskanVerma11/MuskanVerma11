@@ -1,5 +1,5 @@
 👋 Hi, I'm Muskan Verma <br>
-🎓 B.Tech Student at Government Engineering College, Bilaspur. <br>
+🎓 B.Tech Student at Government Engineering College, Bilaspur, IT Batch 2021-2025. <br>
 💻 Passionate about React Native, Android Development, and UI/UX Design. <br>
 🎨 Learning to craft intuitive and engaging user experiences. <br>
 📱 Recent Projects: NSS Application, Local Vibes. <br>
