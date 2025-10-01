@@ -1,9 +1,10 @@
 👋 Hi, I'm Muskan Verma <br>
-🎓 B.Tech Student at Government Engineering College, Bilaspur, IT Batch 2021-2025. <br>
-💻 Passionate about React Native, Android Development, and UI/UX Design. <br>
-🎨 Learning to craft intuitive and engaging user experiences. <br>
-📱 Recent Projects: NSS Application, Local Vibes. <br>
-🚀 Exploring full-stack development with Node.js, MongoDB, and modern design tools. <br>
+🎓 B.Tech Student at Government Engineering College, Bilaspur, IT Batch 2021–2025 <br>
+🎨 UI/UX enthusiast passionate about designing intuitive, user-friendly interfaces <br>
+🛠 Skilled in Figma for prototyping and crafting seamless design flows <br>
+💻 Familiar with React Native & Android Development to bring designs to life <br>
+📱 Recent Projects: NSS Application, Local Vibes — focused on design and user experience <br>
+🚀 Currently deepening my skills in UI/UX design and exploring modern design tools <br>
 
 
 <!---
